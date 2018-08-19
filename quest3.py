@@ -1,0 +1,13 @@
+n=input("enter String")
+p=n.count("a")
+q=n.count("e")
+r=n.count("i")
+s=n.count("o")
+t=n.count("u")
+v=n.count("A")
+w=n.count("E")
+x=n.count("I")
+y=n.count("O")
+z=n.count("U")
+vowels=p+q+r+s+t+v+w+x+y+z
+print(vowels)
